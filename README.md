@@ -1,4 +1,4 @@
-# ⚡ Codnoz (@ethicalcodnoz)
+# Codnoz (@ethicalcodnoz)
 
 <div align="center">
   <img src="assets/banner.png" alt="Banner" width="100%"/>
@@ -7,10 +7,6 @@
 <div align="center">
   <img src="assets/logo.png" alt="Logo" width="150" height="150" style="border-radius: 50%;"/>
 </div>
-
-<p align="center">
-  <i>17yo | Coder | Hacker</i>
-</p>
 
 <p align="center">
   <a href="https://t.me/codnoz" target="_blank">
@@ -23,40 +19,32 @@
 
 ---
 
-```console
-codnoz@matrix:~$ whoami
-ethicalcodnoz
-codnoz@matrix:~$ cat /etc/passwd | grep codnoz
-codnoz:x:0:0:17yo Security Researcher:/root:/bin/bash
-codnoz@matrix:~$ ./deploy_payload.sh
-[+] Establishing reverse shell... Connected.
-```
+## About Me
 
-## 👨‍💻 About Me
+I am a 17-year-old security researcher and software engineer. I focus heavily on low-level systems programming, reverse engineering, and offensive security. I enjoy taking systems apart to figure out how they work under the hood and writing code that interacts directly with the operating system.
 
-17yo developer & security researcher. I spend my time reversing binaries, writing low-level code, and breaking systems. Mostly coding in C/C++, Rust, and Python. If it runs, it can be bypassed.
-
-- 🔭 **Current focus:** Windows Internals, game hacking (anti-cheat evasion), and exploit dev.
-- 💻 **Dev style:** Bare metal, zero overhead. 
-- 🦇 **Vibe:** Always learning, always breaking things.
+- 🔭 **Currently focusing on:** Exploit development, writing kernel-mode drivers, and bypassing endpoint protections.
+- 🌱 **Deep diving into:** Windows Internals, memory forensics, and hypervisor development.
+- 💻 **Engineering approach:** I care about writing optimized, low-overhead code. Whether I'm building a backend service or a custom payload, I try to keep things clean and performant.
+- 🎯 **Goal:** Building reliable infrastructure and continuing to grow in the offensive security space.
 
 ---
 
-## 🛠️ Stack & Tools
+## Tech Stack & Tools
 
-### 🔴 Core
+### Core Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,go,bash,linux,windows,docker,kubernetes,aws,kali,nginx,vim&theme=dark" />
   </a>
 </p>
 
-### 💀 Offensive & RE
-> `x64/x86 Assembly` | `ARM64` | `IDA Pro` | `Ghidra` | `WinDbg` | `x64dbg` | `Exploit Dev` | `Malware Analysis` 
+### Offensive Security & RE
+> `x64/x86 Assembly` | `ARM64` | `IDA Pro` | `Ghidra` | `WinDbg` | `x64dbg` | `Exploit Development` | `Malware Analysis` 
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ethicalcodnoz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
