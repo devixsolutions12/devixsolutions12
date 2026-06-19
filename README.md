@@ -47,12 +47,12 @@ I am a 17-year-old security researcher and software engineer. I focus heavily on
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethicalcodnoz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethicalcodnoz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devixsolutions12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devixsolutions12&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ethicalcodnoz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=devixsolutions12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
